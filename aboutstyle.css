@@ -1,0 +1,44 @@
+#content {
+  text-align: center;
+  padding-top: 10%;
+}
+
+body {
+  background-size: auto;
+  background-position: center;
+  font-family: "Lato", sans-serif;
+  background-color: #000000e1;
+}
+
+h1,
+h3 {
+  color: white;
+  text-shadow: 2px 2px 5px #000000;
+}
+
+h3 {
+  padding-bottom: 2rem;
+}
+
+a,
+a:hover {
+  color: black;
+}
+
+hr {
+  width: 50%;
+  background-color: white;
+}
+
+p {
+  color: white;
+  padding-left: 200px;
+  padding-right: 200px;
+  justify-content: stretch;
+}
+
+img {
+  width: 8rem;
+  height: 10rem;
+  padding-bottom: 2rem;
+}
